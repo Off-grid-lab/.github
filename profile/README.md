@@ -2,27 +2,27 @@
 
 **Digital Alchemy in Culture**
 
-*We are Metafori — your new digital department.*
+*We are Metafori — digital department for cultural organizations.*
 
-**Notice:** Our organization, formerly known as **Off grid lab**, has been renamed to **[Metafori](https://metafori.com/)**! While our name has changed, our mission to create thoughtful, open digital tools for culture remains the same.
+**Notice:** Our organization **Off grid lab** has decided to start working under a new brand **[Metafori](https://metafori.com/)**! We continue our mission to create thoughtful, open digital tools for culture.
 
 ---
 
-### 🚀 We have a new GitHub Organization!
+### We have a new GitHub Organization!
 
 All our active open-source projects, tools, and repositories are migrating to our new GitHub home. Please follow us there for the latest updates:
 
-👉 **[github.com/metafori-studio](https://github.com/metafori-studio/)** 👈
+**[github.com/metafori-studio](https://github.com/metafori-studio/)**
 
 ---
 
-### 🌍 Connect with us
+### Connect with us
 - **Website:** [metafori.com](https://metafori.com/)
-- **Former Website:** [offgridlab.sk](https://offgridlab.sk/)
+- **Old Website:** [offgridlab.sk](https://offgridlab.sk/)
 
 ---
 
-### ✨ About Metafori
+### About Metafori
 
 Born from [Lab.SNG](https://lab.sng.sk/) (the Slovak National Gallery’s former in-house digital team), we bring over a decade of experience creating open digital tools for culture. We are ready to bring your ideas to life – from the first spark all the way through launch and beyond.
 
