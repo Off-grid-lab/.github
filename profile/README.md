@@ -1,6 +1,3 @@
-
-<img src="https://metafori.com/favicon.svg" alt="Metafori Logo" width="100" />
-
 # Metafori
 
 **Digital Alchemy in Culture**
